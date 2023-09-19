@@ -1,13 +1,15 @@
 # A Dev Portfolio Site In React
 
 
-Inspired by (https://mshuber1981.github.io/github-react-portfolio-template/#/)
+Inspired by https://mshuber1981.github.io/github-react-portfolio-template
 
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 ![Page Speed](/README_images/speed.png)
 
 ## Light And Dark Themes
+
+### <a href= "">LIVE DEMO</a>
 
 ![Hero Light](/README_images/hero.png)
 
