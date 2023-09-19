@@ -9,7 +9,7 @@ Inspired by https://mshuber1981.github.io/github-react-portfolio-template
 
 ## Light And Dark Themes
 
-### <a href= "">LIVE DEMO</a>
+### <a href= "https://jasonsal23.github.io/dev-portfolio/">LIVE DEMO</a>
 
 ![Hero Light](/README_images/hero.png)
 
