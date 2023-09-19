@@ -1,6 +1,7 @@
 // Skills icons - https://icon-sets.iconify.design/
 import { Icon } from "@iconify/react";
 
+
 // Navbar Logo image (uncomment below and import your image)
 // import newLogo from "./images/yourFileName"
 
@@ -18,7 +19,7 @@ export { HeroDark as Dark };
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "Jasonsal23";
 
 // Navbar Logo image
 export const navLogo = undefined;
@@ -92,7 +93,7 @@ export const resume = null;
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["example-1", "example-2", "example-3"];
+export const filteredProjects = ["dev-portfolio", "pong-game", "meet-n-greet"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [

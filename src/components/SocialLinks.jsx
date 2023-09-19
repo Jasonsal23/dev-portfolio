@@ -12,7 +12,7 @@ const StyledSocialLinks = styled.div`
     margin: 0 1rem;
   }
 `;
-
+ const linkedinUrl = "https://www.linkedin.com/in/salazar-jason/";
 export default function SocialLinks() {
   const { blog, html_url } = useSelector(selectData);
 
@@ -30,6 +30,12 @@ export default function SocialLinks() {
           {Blog}
         </a>
       )}
+      <a href= {linkedinUrl} 
+      aria-label="External link" 
+      className="link-icons"
+      >
+        <Icon icon="simple-icons:linkedin" />
+      </a>
     </StyledSocialLinks>
   );
 }
