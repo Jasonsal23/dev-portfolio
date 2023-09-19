@@ -1,12 +1,7 @@
-# A React Portfolio Template for GitHub
+# A Dev Portfolio Site In React
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/mshuber1981/github-react-portfolio-template?color=%2361dbfb&style=for-the-badge&logo=github)](https://github.com/mshuber1981/github-react-portfolio-template/stargazers/) [![GitHub Repo Forks](https://img.shields.io/github/forks/mshuber1981/github-react-portfolio-template?color=%2361dbfb&style=for-the-badge&logo=github&label=Forks)](https://github.com/mshuber1981/github-react-portfolio-template/network/members)
 
-A performant, accessible, progressive React portfolio template that uses the [GitHub REST API](https://docs.github.com/en/free-pro-team@latest/rest).
-
-Add your GitHub username once and all of your info will automatically be updated. Deploy to GitHub pages in a few simple steps.
-
-## [Live Demo](https://mshuber1981.github.io/github-react-portfolio-template/#/)
+Inspired by (https://mshuber1981.github.io/github-react-portfolio-template/#/)
 
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
