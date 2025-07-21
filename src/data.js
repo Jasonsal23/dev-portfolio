@@ -7,6 +7,9 @@ import { Icon } from "@iconify/react";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
+import Leo from "./images/leoland.png";
+import Bighit from "./images/bighit.png";
+import Santiago from "./images/santiago.png";
 
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
@@ -32,7 +35,7 @@ export const Blog = <Icon icon="ph:link-bold" />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "My name is Jason Salazar and I am a software engineer based in Las Vegas. I am proficient in HTML, CSS, JavaScript, and React and am always looking for ways to expand my skill set. I enjoy expanding my knowledge on technology during my free time. I am currently attending a software development bootcamp at the University of Nevada, Las Vegas."; 
+  " Hello there! I'm Jason Salazar, a dedicated software engineer based in Las Vegas with a strong focus on front-end development and clean, user-centered design. I specialize in building responsive and accessible web applications using HTML, CSS, JavaScript, and React. I recently completed an intensive Software Development Bootcamp at the University of Nevada, Las Vegas, where I gained hands-on experience across the full development stack, from creating sleek front-end interfaces to working with back-end APIs and databases. I'm now actively seeking opportunities to bring my skills, creativity, and problem-solving mindset to a forward-thinking development team. Whether collaborating on a cross-functional project or independently building an interactive application, I thrive on turning ideas into functional, engaging digital experiences. I’m continually learning, growing, and excited to contribute to meaningful projects that make a difference."; 
 
 /* Skills
  ************************************************************** 
@@ -93,13 +96,21 @@ export const resume = null;
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["dev-portfolio", "pong-game", "meet-n-greet"];
+export const filteredProjects = ["LeoLand", "BigHitBarbershopWebsite", "Santiago-Speech-App"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
   {
-    name: "example-1",
-    image: Logo,
+    name: "LeoLand",
+    image: Leo,
+  },
+  {
+    name: "BigHitBarbershopWebsite",
+    image: Bighit,
+  },
+  {
+    name: "Santiago-Speech-App",
+    image: Santiago,
   },
 ];
 
